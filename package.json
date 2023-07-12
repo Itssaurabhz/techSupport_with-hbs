@@ -1,0 +1,19 @@
+{
+  "name": "techsupport_with-hbs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsAakashz/testing.git#main"
+  },
+  "author": "@itsAakashz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsAakashz/testing/issues"
+  },
+  "homepage": "https://github.com/itsAakashz/testing/tree/main#readme"
+}
