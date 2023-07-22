@@ -29,7 +29,7 @@ contactForm.addEventListener("submit", (e) => {
             send.value = "Message Sent Successfully!";
         }
         else{
-            send.value = "Something Went Wrong! but message sent";
+            send.value = "Something Went Wrong!";
         }
     }   
     xhr.send(JSON.stringify(formData));
