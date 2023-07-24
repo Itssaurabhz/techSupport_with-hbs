@@ -1,23 +1,24 @@
 {
-  "name": "final_startup_app",
+  "name": "techsupport_with-hbs",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itsAakashz/techSupport_with-hbs.git"
+    "url": "git+https://github.com/itsAakashz/testing.git#main"
   },
-  "author": "",
+  "author": "@itsAakashz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/itsAakashz/techSupport_with-hbs/issues"
+    "url": "https://github.com/itsAakashz/testing/issues"
   },
-
-  "homepage": "https://github.com/itsAakashz/testing/tree/main#readme"
-
-  "homepage": "https://github.com/itsAakashz/techSupport_with-hbs#readme"
-
+  "homepage": "https://github.com/itsAakashz/testing/tree/main#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "vercel": "^31.0.2"
+  }
 }
