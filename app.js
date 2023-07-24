@@ -13,6 +13,7 @@ app.use(express.static('public'));
 app.set('view engine', 'hbs');
 app.set('views', __dirname + '/views');
 
+<<<<<<< Updated upstream
 
 
 
@@ -33,6 +34,11 @@ app.get('*', function(req, res){
   res.render('404') ;
 });
 
+=======
+app.use(require('./router/router')) //routers here
+app.use(require('./form_app'))
+ 
+>>>>>>> Stashed changes
 
 //port listening here
 app.listen(port, () => {

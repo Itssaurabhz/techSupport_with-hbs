@@ -1,5 +1,5 @@
 {
-  "name": "techsupport_with-hbs",
+  "name": "final_startup_app",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itsAakashz/testing.git#main"
+    "url": "git+https://github.com/itsAakashz/techSupport_with-hbs.git"
   },
-  "author": "@itsAakashz",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/itsAakashz/testing/issues"
+    "url": "https://github.com/itsAakashz/techSupport_with-hbs/issues"
   },
+<<<<<<< Updated upstream
   "homepage": "https://github.com/itsAakashz/testing/tree/main#readme"
+=======
+  "homepage": "https://github.com/itsAakashz/techSupport_with-hbs#readme"
+>>>>>>> Stashed changes
 }
