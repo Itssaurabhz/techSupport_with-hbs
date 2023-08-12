@@ -18,7 +18,7 @@ ContactformAction.post("/send", (req, res) => {
 
     const mailOptions = {
         from: req.body.email,
-        to: ['gzatrop@gmail.com','itsAakashz@outlook.com'],
+        to: ['gzatrop@gmail.com'],
         subject: `Message from ${req.body.name} : ${req.body.subject}`,
         text: req.body.message
     }
