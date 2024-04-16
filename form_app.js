@@ -12,7 +12,7 @@ ContactformAction.post("/send", (req, res) => {
         service: "gmail",
         auth: {
             user:"techtutez@gmail.com",
-            pass:"gesxcegwleboenzz" 
+            pass:"muzu zvoh rhhj bnbz" 
         },
     });
 
